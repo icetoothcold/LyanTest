@@ -12,13 +12,14 @@ def index():
 def product():
     conn=ConnDB.ConnDB('hosts.db')
     cursor=conn.cursor()
-    cursor.execute("select * FROM hosts WHERE groupname='firstgroup'")
-    values=cursor.fetchall()
-    hostbean=HostBean.HostBean()
-    hostbean.setip(values[0][0])
-    hostbean.setgroup(values[0][1])
-    return render_template('product.html',ip=hostbean.getip(),group=hostbean.getgroup())
+    cursor.execute("select * FROM hosts")
+    hostlist=cursor.fetchall()
+    cursor.execute("select distinct groupname FROM hosts")
+    grouplist=cursor.fetchall()
+    print hostlist
+    print grouplist
+    return render_template('product.html',hostlist=hostlist,grouplist=grouplist)
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host="0.0.0.0")

@@ -93,14 +93,19 @@
 
             </div>
             <div class="col-sm-8">
-                <div class="panel panel-default">
-                    <div class="panel-heading">{{group}}</div>
-                    <table class="table">
-                        <th>产品</th><th>价格 </th>
-                        <tr><td>产品 A</td><td>200</td></tr>
-                        <tr><td>产品 B</td><td>400</td></tr>
-                    </table>
-                </div>
+                {% for group in grouplist %}
+                    <div class="panel panel-default">
+                        <div class="panel-heading">{{group[0]}}</div>
+                        <table class="table">
+                            <th>IP</th><th>GROUPNAME </th>
+                            {% for host in hostlist %}
+                                {% if host[1]==group[0] %}
+                                <tr><td>{{host[0]}}</td><td>{{host[1]}}</td></tr>
+                                {% endif %}
+                            {% endfor %}
+                        </table>
+                    </div>
+                {% endfor %}
             </div>
         </div>
     </div>
