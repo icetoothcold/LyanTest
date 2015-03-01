@@ -20,6 +20,9 @@ def product():
     print grouplist
     return render_template('product.html',hostlist=hostlist,grouplist=grouplist)
 
+@app.route('/addhost.html')
+def addhost():
+    return render_template('addhost.html')
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0")
+    app.run()

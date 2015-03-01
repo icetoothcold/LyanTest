@@ -82,17 +82,22 @@
                     </li>
                     <li class="in"  id="collapseTwo">
                         <ul class="nav nav-pills nav-stacked">
-                            <li><a href="#"><span class="glyphicon glyphicon-chevron-right"></span>   Add</a></li>
+                            <li><a href="addhost.html"><span class="glyphicon glyphicon-chevron-right"></span>   Add</a></li>
                             <li><a href="#"><span class="glyphicon glyphicon-chevron-right"></span>   Delete</a></li>
                         </ul>
                     </li>
                     <script type="text/javascript">
                     $(function () { $('#collapseTwo').collapse('hide')});
                     </script>
+                    <li><a href="/">Deploy</a></li>
                 </ul>
 
             </div>
             <div class="col-sm-8">
+                <ol class="breadcrumb">
+                    <li>Overview</li>
+                    <li class="active">Product</li>
+                </ol>
                 {% for group in grouplist %}
                     <div class="panel panel-default">
                         <div class="panel-heading">{{group[0]}}</div>
