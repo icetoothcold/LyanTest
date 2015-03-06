@@ -9,6 +9,9 @@ def ConnDB(DBname):
 if __name__ == '__main__':
     conn=ConnDB('hosts.db')
     cursor=conn.cursor()
+    ip='10.6.200.1'
+    group='test1'
+    #cursor.execute("insert INTO hosts (ip,groupname) VALUES (?,?)",[ip,group])
     #cursor.execute("INSERT INTO  hosts (ip,groupname) VALUES  ('10.6.100.6','thirdgroup')")
     cursor.execute("select * FROM hosts")
     #cursor.execute("SELECT DISTINCT groupname FROM hosts")
