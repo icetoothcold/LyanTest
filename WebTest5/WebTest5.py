@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from flask import Flask,render_template,request,redirect
+from flask import Flask,render_template,request,redirect,url_for
 import ConnDB,HostBean
 app = Flask(__name__)
 
@@ -39,4 +39,5 @@ def hostpost():
     print ip, group
     return redirect('/addhost.html')
 if __name__ == '__main__':
-    app.run()
+    app.run('0.0.0.0')
+    print url_for('addhost')
