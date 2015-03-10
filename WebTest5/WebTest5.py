@@ -13,6 +13,7 @@ def index():
 
 @app.route('/product.html')
 def product():
+    cururl = url_for('product')
     conn = ConnDB.ConnDB('hosts.db')
     cursor = conn.cursor()
     cursor.execute("select * FROM hosts")
@@ -23,11 +24,13 @@ def product():
     conn.close()
     print hostlist
     print grouplist
-    return render_template('product.html',hostlist=hostlist,grouplist=grouplist)
+    print cururl
+    return render_template('product.html',hostlist=hostlist,grouplist=grouplist,produrl=cururl)
 
 @app.route('/addhost.html')
 def addhost():
-    return render_template('addhost.html')
+    cururl = url_for('addhost')
+    return render_template('addhost.html',addhurl=cururl)
 
 @app.route('/hostpost',methods=['POST'])
 def hostpost():

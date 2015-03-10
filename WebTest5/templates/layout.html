@@ -79,12 +79,18 @@
                         Alerts
                         <span class="caret"></span>
                     </a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu" style="background-color: #882e65">
                         <li>
-                           <a href="warning.html">Warning</a>
+                            <a href="warning.html" style="color: #ffffff">
+                                <span class="glyphicon glyphicon-exclamation-sign"></span>
+                                报警
+                            </a>
                         </li>
                         <li>
-                            <a href="error.html">Error</a>
+                            <a href="error.html" style="color: #ffffff">
+                                <span class="glyphicon glyphicon-question-sign"></span>
+                                信息
+                            </a>
                         </li>
                     </ul>
                 </li>
@@ -99,10 +105,20 @@
                         <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu">
+                        {% if not session.logged_in %}
                         <li>
-                            <a data-toggle="modal" href="#myModal">登录</a>
+                            <a data-toggle="modal" href="#myModal">
+                                <span class="glyphicon glyphicon-user"></span>
+                                登录
+                            </a>
                         </li>
-                        <li><a href="/logout">注销</a></li>
+                        {% endif %}
+                        <li>
+                            <a href="/logout">
+                                <span class="glyphicon glyphicon-off"></span>
+                                注销
+                            </a>
+                        </li>
                     </ul>
                 </li>
             </ul>
@@ -189,24 +205,32 @@
                     </li>
                     <li class="in"  id="collapseTwo">
                         <ul class="nav nav-pills nav-stacked">
+                            {% if addhurl %}
+                            <li class="active"><a href="addhost.html"><span class="glyphicon glyphicon-chevron-right"></span>   Add</a></li>
+                            {% else %}
                             <li><a href="addhost.html"><span class="glyphicon glyphicon-chevron-right"></span>   Add</a></li>
+                            {% endif %}
+                            {% if delhurl%}
                             <li><a href="#"><span class="glyphicon glyphicon-chevron-right"></span>   Delete</a></li>
+                            {% else %}
+                            <li><a href="#"><span class="glyphicon glyphicon-chevron-right"></span>   Delete</a></li>
+                            {% endif %}
                         </ul>
                     </li>
+                    {% if not addhurl or delhurl %}
                     <script type="text/javascript">
                     $(function () { $('#collapseTwo').collapse('hide')});
                     </script>
+                    {% endif %}
+                    {% if depurl %}
+                    <li class="active"><a href="/">Deploy</a></li>
+                    {% else %}
                     <li><a href="/">Deploy</a></li>
+                    {% endif %}
                 </ul>
 
             </div>
-            <div class="col-sm-10">
-                <ol class="breadcrumb">
-                    <li class="active">Dashboard</li>
-
-                </ol>
-                <div id="container" style="min-width:700px;height:400px"></div>
-            </div>
+            {% block body %}{% endblock %}
         </div>
     </div>
 </body>
