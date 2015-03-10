@@ -1,12 +1,15 @@
 #!/usr/bin/env python
-from flask import Flask,render_template,request,redirect,url_for
+from flask import Flask,render_template,request,redirect,url_for,session,flash
 import ConnDB,HostBean
-app = Flask(__name__)
 
+SECRET_KEY = 'development key'
+app = Flask(__name__)
+app.config.from_object(__name__)
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    cururl = url_for('index')
+    return render_template('index.html',indexurl=cururl)
 
 @app.route('/product.html')
 def product():
@@ -38,6 +41,27 @@ def hostpost():
     conn.close()
     print ip, group
     return redirect('/addhost.html')
+
+@app.route('/login',methods=['POST'])
+def login():
+    username=request.form.get('username')
+    passwd=request.form.get('passwd')
+    if username == 'lyan':
+        if passwd == '123456':
+            session['logged_in'] = True
+            print username,passwd
+            print session
+            print username,passwd
+            return redirect('/')
+
+@app.route('/logout')
+def logout():
+    session.pop('logged_in', None)
+    flash('You were logged out')
+    return redirect('/')
+
+
+
+
 if __name__ == '__main__':
     app.run('0.0.0.0')
-    print url_for('addhost')
