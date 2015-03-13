@@ -22,15 +22,27 @@ def product():
     grouplist = cursor.fetchall()
     cursor.close()
     conn.close()
-    print hostlist
-    print grouplist
-    print cururl
     return render_template('product.html',hostlist=hostlist,grouplist=grouplist,produrl=cururl)
 
 @app.route('/addhost.html')
 def addhost():
     cururl = url_for('addhost')
     return render_template('addhost.html',addhurl=cururl)
+
+
+@app.route('/delhost.html')
+def delhost():
+    cururl = url_for('delhost')
+    conn = ConnDB.ConnDB('hosts.db')
+    cursor = conn.cursor()
+    cursor.execute("select * FROM hosts")
+    hostlist = cursor.fetchall()
+    cursor.execute("select distinct groupname FROM hosts")
+    grouplist = cursor.fetchall()
+    cursor.close()
+    conn.close()
+    return render_template('delhost.html',hostlist=hostlist,grouplist=grouplist,delhurl=cururl)
+
 
 @app.route('/hostpost',methods=['POST'])
 def hostpost():

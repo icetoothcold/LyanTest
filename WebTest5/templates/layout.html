@@ -192,7 +192,7 @@
                             {% endif %}
                         </ul>
                     </li>
-                    {% if not produrl or testurl%}
+                    {% if not (produrl or testurl) %}
                     <script type="text/javascript">
                     $(function () { $('#collapseOne').collapse('hide')});
                     </script>
@@ -210,14 +210,14 @@
                             {% else %}
                             <li><a href="addhost.html"><span class="glyphicon glyphicon-chevron-right"></span>   Add</a></li>
                             {% endif %}
-                            {% if delhurl%}
-                            <li><a href="#"><span class="glyphicon glyphicon-chevron-right"></span>   Delete</a></li>
+                            {% if delhurl %}
+                            <li class="active"><a href="delhost.html"><span class="glyphicon glyphicon-chevron-right"></span>   Delete</a></li>
                             {% else %}
-                            <li><a href="#"><span class="glyphicon glyphicon-chevron-right"></span>   Delete</a></li>
+                            <li><a href="delhost.html"><span class="glyphicon glyphicon-chevron-right"></span>   Delete</a></li>
                             {% endif %}
                         </ul>
                     </li>
-                    {% if not addhurl or delhurl %}
+                    {% if not (addhurl or delhurl) %}
                     <script type="text/javascript">
                     $(function () { $('#collapseTwo').collapse('hide')});
                     </script>
