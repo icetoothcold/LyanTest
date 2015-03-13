@@ -13,7 +13,7 @@ if __name__ == '__main__':
     group='test1'
     #cursor.execute("insert INTO hosts (ip,groupname) VALUES (?,?)",[ip,group])
     #cursor.execute("INSERT INTO  hosts (ip,groupname) VALUES  ('10.6.100.6','thirdgroup')")
-    cursor.execute("select * FROM hosts")
+    cursor.execute("select * FROM hosts where ip=''")
     #cursor.execute("SELECT DISTINCT groupname FROM hosts")
     values=cursor.fetchall()
     cursor.close()

@@ -44,6 +44,20 @@ def delhost():
     return render_template('delhost.html',hostlist=hostlist,grouplist=grouplist,delhurl=cururl)
 
 
+@app.route('/delhost/<name>')
+def delete(name):
+    a='asdasd'
+    print a
+    print name
+    conn = ConnDB.ConnDB('hosts.db')
+    cursor = conn.cursor()
+    cursor.execute('delete from hosts where ip=?',(name,))
+    print cursor.fetchall()
+    cursor.close()
+    conn.commit()
+    conn.close()
+    return redirect('/delhost.html')
+
 @app.route('/hostpost',methods=['POST'])
 def hostpost():
     ip = request.form.get('ipaddress')
