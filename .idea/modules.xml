@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebTest6/.idea/WebTest6.iml" filepath="$PROJECT_DIR$/WebTest6/.idea/WebTest6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebTest7/.idea/WebTest7.iml" filepath="$PROJECT_DIR$/WebTest7/.idea/WebTest7.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Workspace.iml" filepath="$PROJECT_DIR$/.idea/Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebContent/html/.idea/html.iml" filepath="$PROJECT_DIR$/../WebContent/html/.idea/html.iml" />
     </modules>
   </component>
 </project>

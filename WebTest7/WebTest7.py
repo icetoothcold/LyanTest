@@ -46,8 +46,6 @@ def delhost():
 
 @app.route('/delhost/<name>')
 def delete(name):
-    a='asdasd'
-    print a
     print name
     conn = ConnDB.ConnDB('hosts.db')
     cursor = conn.cursor()
@@ -60,7 +58,7 @@ def delete(name):
 
 @app.route('/hostpost',methods=['POST'])
 def hostpost():
-    ip = request.form.get('ipaddress')
+    ip = request.form.get('ip')
     group = request.form.get('group')
     conn = ConnDB.ConnDB('hosts.db')
     cursor = conn.cursor()
@@ -70,6 +68,12 @@ def hostpost():
     conn.close()
     print ip, group
     return redirect('/addhost.html')
+
+
+@app.route('/login.html')
+def loginpage():
+    return render_template('login.html')
+
 
 @app.route('/login',methods=['POST'])
 def login():

@@ -11,9 +11,10 @@ if __name__ == '__main__':
     cursor=conn.cursor()
     ip='10.6.200.1'
     group='test1'
+    #cursor.execute('create table hosts (ip varchar(50) primary key, groupname varchar(50))')
     #cursor.execute("insert INTO hosts (ip,groupname) VALUES (?,?)",[ip,group])
     #cursor.execute("INSERT INTO  hosts (ip,groupname) VALUES  ('10.6.100.6','thirdgroup')")
-    cursor.execute("select * FROM hosts")
+    cursor.execute("SELECT * FROM hosts")
     #cursor.execute("SELECT DISTINCT groupname FROM hosts")
     values=cursor.fetchall()
     cursor.close()

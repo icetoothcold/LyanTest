@@ -5,10 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ffffcfb-8768-46d3-aabd-06935c0037c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/font/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/avatar1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/avatar2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/avatar3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/avatar4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/avatar5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/font/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/hosts.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/profile-pic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/avatars/user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/ConnDB.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/.idea/WebTest7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/WebTest7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/ace-elements.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/ace-extra.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/css/ace-fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/css/ace-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/css/ace-skins.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/css/ace.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/ace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/templates/addhost.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/templates/delhost.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/jquery-ui.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/jquery.easy-pie-chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/jquery.easypiechart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/flot/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/flot/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/flot/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/jquery.mobile.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/js/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/templates/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/static/font/readme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebTest7/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebTest5/hosts.db" afterPath="$PROJECT_DIR$/WebTest5/hosts.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebTest5/ConnDB.py" afterPath="$PROJECT_DIR$/WebTest5/ConnDB.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebTest5/WebTest5.py" afterPath="$PROJECT_DIR$/WebTest5/WebTest5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebTest5/templates/delhost.html" afterPath="$PROJECT_DIR$/WebTest5/templates/delhost.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Workspace.iml" afterPath="$PROJECT_DIR$/.idea/Workspace.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Workspace.iws" />
@@ -23,10 +81,12 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Workspace$WebTest7.coverage" NAME="WebTest7 Coverage Results" MODIFIED="1426429321585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebTest7" />
+    <SUITE FILE_PATH="coverage/Workspace$ConnDB__1_.coverage" NAME="ConnDB (1) Coverage Results" MODIFIED="1426415349216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebTest7" />
     <SUITE FILE_PATH="coverage/Workspace$WebTest6.coverage" NAME="WebTest6 Coverage Results" MODIFIED="1426112226078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Workspace$ConnDB.coverage" NAME="ConnDB Coverage Results" MODIFIED="1426256273339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebTest5" />
+    <SUITE FILE_PATH="coverage/Workspace$ConnDB.coverage" NAME="ConnDB Coverage Results" MODIFIED="1426415164606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebTest5" />
     <SUITE FILE_PATH="coverage/Workspace$HostBean.coverage" NAME="HostBean Coverage Results" MODIFIED="1424932959418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebTest5" />
-    <SUITE FILE_PATH="coverage/Workspace$WebTest5.coverage" NAME="WebTest5 Coverage Results" MODIFIED="1426256077532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebTest5" />
+    <SUITE FILE_PATH="coverage/Workspace$WebTest5.coverage" NAME="WebTest5 Coverage Results" MODIFIED="1426324272379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebTest5" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -40,65 +100,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WebTest5.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebTest5/WebTest5.py">
+      <file leaf-file-name="WebTest7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebTest7/WebTest7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63121784" vertical-offset="897" max-vertical-offset="2323">
-              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1743" max-vertical-offset="2650">
+              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding>
-                <element signature="e#245#327#0" expanded="true" />
-                <element signature="e#376#767#0" expanded="true" />
-                <element signature="e#816#901#0" expanded="true" />
-                <element signature="e#951#1342#0" expanded="true" />
-                <element signature="e#1739#2065#0" expanded="true" />
-                <element signature="e#2122#2422#0" expanded="true" />
-                <element signature="e#2464#2552#0" expanded="true" />
-                <marker date="1426256073523" expanded="true" signature="488:507" placeholder="select * FRO..hosts..." />
-                <marker date="1426256073523" expanded="true" signature="563:599" placeholder="select disti..hosts..." />
-                <marker date="1426256073523" expanded="true" signature="1063:1082" placeholder="select * FRO..hosts..." />
-                <marker date="1426256073523" expanded="true" signature="1138:1174" placeholder="select disti..hosts..." />
-                <marker date="1426256073523" expanded="true" signature="1519:1547" placeholder="delete from ..." />
-                <marker date="1426256073523" expanded="true" signature="1525:1546" placeholder="select * fro..hosts..." />
-                <marker date="1426256073523" expanded="true" signature="1525:1547" placeholder="select * fro..hosts..." />
-                <marker date="1426256073523" expanded="true" signature="1526:1546" placeholder="delete from ..." />
-                <marker date="1426256073523" expanded="true" signature="1896:1941" placeholder="insert INTO ..." />
+                <element signature="e#22#100#0" expanded="true" />
+                <marker date="1426429318520" expanded="true" signature="479:498" placeholder="select * FRO..hosts..." />
+                <marker date="1426429318520" expanded="true" signature="554:590" placeholder="select disti..hosts..." />
+                <marker date="1426429318520" expanded="true" signature="1054:1073" placeholder="select * FRO..hosts..." />
+                <marker date="1426429318520" expanded="true" signature="1129:1165" placeholder="select disti..hosts..." />
+                <marker date="1426429318520" expanded="true" signature="1483:1511" placeholder="delete from ..." />
+                <marker date="1426429318520" expanded="true" signature="1853:1898" placeholder="insert INTO ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConnDB.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebTest5/ConnDB.py">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebTest7/templates/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-              <folding>
-                <marker date="1426256273334" expanded="true" signature="439:458" placeholder="select * FRO..hosts..." />
-                <marker date="1426256273334" expanded="true" signature="439:458" placeholder="select * FRO..hosts..." />
-                <marker date="1426256273334" expanded="true" signature="439:458" placeholder="select * FRO..hosts..." />
-                <marker date="1426256273334" expanded="true" signature="439:458" placeholder="select * FRO..hosts..." />
-                <marker date="1426256273334" expanded="true" signature="439:470" placeholder="select * FRO..hosts..." />
-                <marker date="1426256273334" expanded="true" signature="439:472" placeholder="select * FRO..hosts..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delhost.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebTest5/templates/delhost.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.09375" vertical-offset="0" max-vertical-offset="782">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state vertical-scroll-proportion="-6.1764708" vertical-offset="2815" max-vertical-offset="8575">
+              <caret line="121" column="32" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebTest5/templates/product.html">
+      <file leaf-file-name="jqgrid.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebContent/html/jqgrid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="851">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state vertical-scroll-proportion="336.47058" vertical-offset="14190" max-vertical-offset="14900">
+              <caret line="1031" column="55" selection-start-line="1031" selection-start-column="55" selection-end-line="1031" selection-end-column="55" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1421214188000" expanded="true" signature="29875:29981" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tables.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebContent/html/tables.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="229.36082" vertical-offset="47923" max-vertical-offset="50175">
+              <caret line="2247" column="99" selection-start-line="2247" selection-start-column="93" selection-end-line="2247" selection-end-column="99" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebTest5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebTest5/WebTest5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.306346" vertical-offset="2093" max-vertical-offset="2550">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding>
+                <element signature="e#22#100#0" expanded="true" />
+                <marker date="1426322452286" expanded="true" signature="479:498" placeholder="select * FRO..hosts..." />
+                <marker date="1426322452286" expanded="true" signature="554:590" placeholder="select disti..hosts..." />
+                <marker date="1426322452286" expanded="true" signature="1054:1073" placeholder="select * FRO..hosts..." />
+                <marker date="1426322452286" expanded="true" signature="1129:1165" placeholder="select disti..hosts..." />
+                <marker date="1426322452286" expanded="true" signature="1510:1538" placeholder="delete from ..." />
+                <marker date="1426322452286" expanded="true" signature="1887:1932" placeholder="insert INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebTest7/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.117647" vertical-offset="1515" max-vertical-offset="4925">
+              <caret line="73" column="60" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -107,18 +193,28 @@
       <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebTest5/templates/layout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-37.375" vertical-offset="1426" max-vertical-offset="4577">
-              <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.7319589" vertical-offset="2410" max-vertical-offset="6050">
+              <caret line="107" column="24" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebTest6/templates/index.html">
+      <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebTest7/templates/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="821" max-vertical-offset="1656">
-              <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+            <state vertical-scroll-proportion="2.6470587" vertical-offset="2390" max-vertical-offset="2950">
+              <caret line="92" column="64" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delhost.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebTest7/templates/delhost.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.7058825" vertical-offset="2415" max-vertical-offset="2825">
+              <caret line="103" column="31" selection-start-line="41" selection-start-column="20" selection-end-line="103" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -143,9 +239,19 @@
         <option value="$PROJECT_DIR$/WebTest6/templates/index.html" />
         <option value="$PROJECT_DIR$/WebTest5/templates/product.html" />
         <option value="$PROJECT_DIR$/WebTest5/templates/layout.html" />
-        <option value="$PROJECT_DIR$/WebTest5/templates/delhost.html" />
+        <option value="$PROJECT_DIR$/WebTest7/templates/index.html" />
         <option value="$PROJECT_DIR$/WebTest5/WebTest5.py" />
+        <option value="$PROJECT_DIR$/WebTest5/templates/delhost.html" />
         <option value="$PROJECT_DIR$/WebTest5/ConnDB.py" />
+        <option value="$PROJECT_DIR$/WebTest7/ConnDB.py" />
+        <option value="$PROJECT_DIR$/../WebContent/html/widgets.html" />
+        <option value="$PROJECT_DIR$/WebTest7/templates/delhost.html" />
+        <option value="$PROJECT_DIR$/../WebContent/html/form-elements.html" />
+        <option value="$PROJECT_DIR$/WebTest7/templates/addhost.html" />
+        <option value="$PROJECT_DIR$/WebTest7/templates/product.html" />
+        <option value="$PROJECT_DIR$/WebTest7/WebTest7.py" />
+        <option value="$PROJECT_DIR$/WebTest7/templates/login.html" />
+        <option value="$PROJECT_DIR$/WebTest7/templates/layout.html" />
       </list>
     </option>
   </component>
@@ -155,8 +261,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -210,7 +316,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebTest5" />
+              <option name="myItemId" value="WebTest7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LyanTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebTest7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LyanTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebTest7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,10 +369,6 @@
               <option name="myItemId" value="WebTest5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -238,20 +376,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebTest7" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.lastSelected" value="settings.github" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.ConnDB">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Workspaces\LyanTest\WebTest7\templates" />
+      <recent name="G:\Workspaces\LyanTest\WebTest7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ConnDB (1)">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="file://$PROJECT_DIR$/WebTest7/templates/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="WebTest5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,32 +442,27 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="HostBean" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ConnDB (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebTest5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebTest7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Workspace" />
+      <module name="WebTest7" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebTest5/HostBean.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebTest7/ConnDB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="form-wizard.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:58168/Workspace/form-wizard.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="layout.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:61180/Workspace/WebTest5/templates/layout.html">
+    <configuration default="false" name="delhost.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="file://$PROJECT_DIR$/WebTest7/templates/delhost.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -505,7 +650,6 @@
       <node-options />
       <gulpfile />
       <tasks />
-      <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
       <method />
@@ -532,21 +676,42 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Python.WebTest6" />
-      <item index="1" class="java.lang.String" itemvalue="Python.WebTest5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ConnDB" />
-      <item index="3" class="java.lang.String" itemvalue="Python.HostBean" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.form-wizard.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.layout.html" />
+    <configuration default="false" name="WebTest7" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebTest7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WebTest7" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebTest7/WebTest7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="Python.WebTest6" />
+      <item index="2" class="java.lang.String" itemvalue="Python.WebTest7" />
+      <item index="3" class="java.lang.String" itemvalue="Python.WebTest5" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ConnDB" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ConnDB (1)" />
+      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.delhost.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ConnDB" />
-        <item index="1" class="java.lang.String" itemvalue="Python.WebTest5" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.layout.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.form-wizard.html" />
-        <item index="4" class="java.lang.String" itemvalue="Python.HostBean" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ConnDB (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.delhost.html" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ConnDB" />
+        <item index="3" class="java.lang.String" itemvalue="Python.WebTest5" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -649,8 +814,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -658,10 +823,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32599118" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3250346" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29744136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3060567" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -671,7 +837,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -709,184 +874,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebTest6/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1150">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest6/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1800">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1775">
-          <caret line="93" column="29" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/HostBean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="625" max-vertical-offset="775">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/ConnDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/WebTest5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="625" max-vertical-offset="775">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="e#245#327#0" expanded="true" />
-            <element signature="e#376#767#0" expanded="true" />
-            <element signature="e#816#901#0" expanded="true" />
-            <element signature="e#951#1342#0" expanded="true" />
-            <element signature="e#1739#2065#0" expanded="true" />
-            <element signature="e#2122#2422#0" expanded="true" />
-            <element signature="e#2464#2552#0" expanded="true" />
-            <marker date="1426256073523" expanded="true" signature="488:507" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="563:599" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1063:1082" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1138:1174" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1519:1547" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1546" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1547" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1526:1546" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1896:1941" placeholder="insert INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest1/guestbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2950">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/addhost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2750" max-vertical-offset="3150">
-          <caret line="110" column="38" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1150" max-vertical-offset="1675">
-          <caret line="88" column="117" selection-start-line="88" selection-start-column="117" selection-end-line="88" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/HostBean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="625" max-vertical-offset="775">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/GroupList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="25" max-vertical-offset="175">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/ConnDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="600">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/WebTest5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="483">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#245#327#0" expanded="true" />
-            <element signature="e#376#767#0" expanded="true" />
-            <element signature="e#816#901#0" expanded="true" />
-            <element signature="e#951#1342#0" expanded="true" />
-            <element signature="e#1739#2065#0" expanded="true" />
-            <element signature="e#2122#2422#0" expanded="true" />
-            <element signature="e#2464#2552#0" expanded="true" />
-            <marker date="1426256073523" expanded="true" signature="488:507" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="563:599" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1063:1082" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1138:1174" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1519:1547" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1546" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1547" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1526:1546" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1896:1941" placeholder="insert INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest1/guestbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="713">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2392" max-vertical-offset="2714">
-          <caret line="104" column="40" selection-start-line="104" selection-start-column="40" selection-end-line="104" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest1/templates/index.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="1196">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1541">
-          <caret line="69" column="53" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/ConnDB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="253" max-vertical-offset="506">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/HostBean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="575">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebTest5/GroupList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="161">
@@ -899,22 +886,13 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="750">
           <caret line="19" column="88" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="88" />
           <folding>
-            <element signature="e#245#327#0" expanded="true" />
-            <element signature="e#376#767#0" expanded="true" />
-            <element signature="e#816#901#0" expanded="true" />
-            <element signature="e#951#1342#0" expanded="true" />
-            <element signature="e#1739#2065#0" expanded="true" />
-            <element signature="e#2122#2422#0" expanded="true" />
-            <element signature="e#2464#2552#0" expanded="true" />
-            <marker date="1426256073523" expanded="true" signature="488:507" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="563:599" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1063:1082" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1138:1174" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1519:1547" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1546" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1547" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1526:1546" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1896:1941" placeholder="insert INTO ..." />
+            <element signature="e#22#100#0" expanded="true" />
+            <marker date="1426322452286" expanded="true" signature="479:498" placeholder="select * FRO..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="554:590" placeholder="select disti..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1054:1073" placeholder="select * FRO..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1129:1165" placeholder="select disti..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1510:1538" placeholder="delete from ..." />
+            <marker date="1426322452286" expanded="true" signature="1887:1932" placeholder="insert INTO ..." />
           </folding>
         </state>
       </provider>
@@ -966,22 +944,13 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="121" max-vertical-offset="575">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#245#327#0" expanded="true" />
-            <element signature="e#376#767#0" expanded="true" />
-            <element signature="e#816#901#0" expanded="true" />
-            <element signature="e#951#1342#0" expanded="true" />
-            <element signature="e#1739#2065#0" expanded="true" />
-            <element signature="e#2122#2422#0" expanded="true" />
-            <element signature="e#2464#2552#0" expanded="true" />
-            <marker date="1426256073523" expanded="true" signature="488:507" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="563:599" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1063:1082" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1138:1174" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1519:1547" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1546" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1547" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1526:1546" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1896:1941" placeholder="insert INTO ..." />
+            <element signature="e#22#100#0" expanded="true" />
+            <marker date="1426322452286" expanded="true" signature="479:498" placeholder="select * FRO..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="554:590" placeholder="select disti..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1054:1073" placeholder="select * FRO..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1129:1165" placeholder="select disti..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1510:1538" placeholder="delete from ..." />
+            <marker date="1426322452286" expanded="true" signature="1887:1932" placeholder="insert INTO ..." />
           </folding>
         </state>
       </provider>
@@ -1049,13 +1018,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/GroupList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05482456" vertical-offset="0" max-vertical-offset="456">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebTest1/templates/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7598784" vertical-offset="0" max-vertical-offset="1300">
@@ -1077,20 +1039,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0876777" vertical-offset="1628" max-vertical-offset="2800">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/addhost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8293839" vertical-offset="225" max-vertical-offset="875">
-          <caret line="23" column="76" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebTest6/WebTest6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23630136" vertical-offset="0" max-vertical-offset="584">
@@ -1102,70 +1050,284 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="821" max-vertical-offset="1656">
           <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/static/css/ace-skins.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="444">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="173125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/static/css/ace.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="492200">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/static/css/ace-rtl.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="381">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/static/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.079365" vertical-offset="19" max-vertical-offset="49600">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/static/css/ace-fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6756757" vertical-offset="0" max-vertical-offset="450">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest5/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49392098" vertical-offset="0" max-vertical-offset="2800">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebContent/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1577" max-vertical-offset="39050">
+          <caret line="992" column="50" selection-start-line="992" selection-start-column="50" selection-end-line="992" selection-end-column="50" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1421820474000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest5/GroupList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.054704595" vertical-offset="0" max-vertical-offset="457">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebTest5/templates/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="851">
+        <state vertical-scroll-proportion="0.059101656" vertical-offset="100" max-vertical-offset="925">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebTest5/templates/layout.html">
+    <entry file="file://$PROJECT_DIR$/WebTest7/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-37.375" vertical-offset="1426" max-vertical-offset="4577">
-          <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.9117646" vertical-offset="815" max-vertical-offset="1225">
+          <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebTest5/ConnDB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.216763" vertical-offset="0" max-vertical-offset="692">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           <folding>
-            <marker date="1426256273334" expanded="true" signature="439:458" placeholder="select * FRO..hosts..." />
-            <marker date="1426256273334" expanded="true" signature="439:458" placeholder="select * FRO..hosts..." />
-            <marker date="1426256273334" expanded="true" signature="439:458" placeholder="select * FRO..hosts..." />
-            <marker date="1426256273334" expanded="true" signature="439:458" placeholder="select * FRO..hosts..." />
-            <marker date="1426256273334" expanded="true" signature="439:470" placeholder="select * FRO..hosts..." />
-            <marker date="1426256273334" expanded="true" signature="439:472" placeholder="select * FRO..hosts..." />
+            <marker date="1426415164600" expanded="true" signature="-1:-1" placeholder="select * FRO..hosts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebContent/html/widgets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.5" vertical-offset="3115" max-vertical-offset="24000">
+          <caret line="1047" column="56" selection-start-line="1033" selection-start-column="52" selection-end-line="1047" selection-end-column="56" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1421214188000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest5/templates/addhost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.04255319" vertical-offset="393" max-vertical-offset="875">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/ConnDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69365424" vertical-offset="8" max-vertical-offset="700">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1426415317963" expanded="true" signature="-1:-1" placeholder="create table..hosts..." />
+            <marker date="1426415317963" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..hosts..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebTest5/templates/delhost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.09375" vertical-offset="0" max-vertical-offset="782">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.3144208" vertical-offset="42" max-vertical-offset="850">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="26" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/templates/delhost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7058825" vertical-offset="2415" max-vertical-offset="2825">
+          <caret line="103" column="31" selection-start-line="41" selection-start-column="20" selection-end-line="103" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/templates/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6470587" vertical-offset="2390" max-vertical-offset="2950">
+          <caret line="92" column="64" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/templates/addhost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4512195" vertical-offset="1040" max-vertical-offset="2050">
+          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebContent/html/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8" vertical-offset="972" max-vertical-offset="8550">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1421214188000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebContent/html/form-elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.167147" vertical-offset="4810" max-vertical-offset="58275">
+          <caret line="654" column="36" selection-start-line="654" selection-start-column="36" selection-end-line="654" selection-end-column="36" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1421214188000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1421214188000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.117647" vertical-offset="1515" max-vertical-offset="4925">
+          <caret line="73" column="60" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest5/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7319589" vertical-offset="2410" max-vertical-offset="6050">
+          <caret line="107" column="24" selection-start-line="107" selection-start-column="24" selection-end-line="107" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/WebTest7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1593" max-vertical-offset="2650">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#100#0" expanded="true" />
+            <marker date="1426429318520" expanded="true" signature="479:498" placeholder="select * FRO..hosts..." />
+            <marker date="1426429318520" expanded="true" signature="554:590" placeholder="select disti..hosts..." />
+            <marker date="1426429318520" expanded="true" signature="1054:1073" placeholder="select * FRO..hosts..." />
+            <marker date="1426429318520" expanded="true" signature="1129:1165" placeholder="select disti..hosts..." />
+            <marker date="1426429318520" expanded="true" signature="1483:1511" placeholder="delete from ..." />
+            <marker date="1426429318520" expanded="true" signature="1853:1898" placeholder="insert INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebTest7/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.1764708" vertical-offset="2815" max-vertical-offset="8575">
+          <caret line="121" column="32" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebContent/html/jqgrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="336.47058" vertical-offset="14190" max-vertical-offset="14900">
+          <caret line="1031" column="55" selection-start-line="1031" selection-start-column="55" selection-end-line="1031" selection-end-column="55" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1421214188000" expanded="true" signature="29875:29981" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebContent/html/tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="229.36082" vertical-offset="47923" max-vertical-offset="50175">
+          <caret line="2247" column="99" selection-start-line="2247" selection-start-column="93" selection-end-line="2247" selection-end-column="99" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebTest5/WebTest5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63121784" vertical-offset="897" max-vertical-offset="2323">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        <state vertical-scroll-proportion="-4.306346" vertical-offset="2093" max-vertical-offset="2550">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
-            <element signature="e#245#327#0" expanded="true" />
-            <element signature="e#376#767#0" expanded="true" />
-            <element signature="e#816#901#0" expanded="true" />
-            <element signature="e#951#1342#0" expanded="true" />
-            <element signature="e#1739#2065#0" expanded="true" />
-            <element signature="e#2122#2422#0" expanded="true" />
-            <element signature="e#2464#2552#0" expanded="true" />
-            <marker date="1426256073523" expanded="true" signature="488:507" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="563:599" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1063:1082" placeholder="select * FRO..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1138:1174" placeholder="select disti..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1519:1547" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1546" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1525:1547" placeholder="select * fro..hosts..." />
-            <marker date="1426256073523" expanded="true" signature="1526:1546" placeholder="delete from ..." />
-            <marker date="1426256073523" expanded="true" signature="1896:1941" placeholder="insert INTO ..." />
+            <element signature="e#22#100#0" expanded="true" />
+            <marker date="1426322452286" expanded="true" signature="479:498" placeholder="select * FRO..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="554:590" placeholder="select disti..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1054:1073" placeholder="select * FRO..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1129:1165" placeholder="select disti..hosts..." />
+            <marker date="1426322452286" expanded="true" signature="1510:1538" placeholder="delete from ..." />
+            <marker date="1426322452286" expanded="true" signature="1887:1932" placeholder="insert INTO ..." />
           </folding>
         </state>
       </provider>

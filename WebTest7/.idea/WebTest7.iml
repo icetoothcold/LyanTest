@@ -4,15 +4,12 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="WebTest6" />
-    <orderEntry type="module" module-name="WebTest6" />
-    <orderEntry type="module" module-name="WebTest7" />
-    <orderEntry type="module" module-name="html" />
   </component>
   <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/WebTest1/templates" />
+        <option value="$MODULE_DIR$/../WebTest7\templates" />
       </list>
     </option>
   </component>
